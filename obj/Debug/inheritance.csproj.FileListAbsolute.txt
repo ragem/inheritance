@@ -1,0 +1,7 @@
+C:\Users\Edgars\source\repos\inheritance\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\Edgars\source\repos\inheritance\inheritance\bin\Debug\inheritance.exe
+C:\Users\Edgars\source\repos\inheritance\inheritance\bin\Debug\inheritance.pdb
+C:\Users\Edgars\source\repos\inheritance\inheritance\obj\Debug\inheritance.csprojResolveAssemblyReference.cache
+C:\Users\Edgars\source\repos\inheritance\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Edgars\source\repos\inheritance\inheritance\obj\Debug\inheritance.exe
+C:\Users\Edgars\source\repos\inheritance\inheritance\obj\Debug\inheritance.pdb
